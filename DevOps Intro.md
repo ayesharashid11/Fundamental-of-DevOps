@@ -11,4 +11,10 @@ devopstepologies.com
 -Dev don't need Ops
 - DevOps don't need tools
 -Ops embbed in Teams
--Devs and DB 
+-Devs and DB
+
+# Framworks
+-LEAN
+-SAFe
+-ITIL
+
