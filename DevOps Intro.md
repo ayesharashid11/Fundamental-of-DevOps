@@ -24,3 +24,7 @@ devopstepologies.com
 -visibility
 - how data is shared
 
+# Values
+- honesty
+- use of tools
+- courage
