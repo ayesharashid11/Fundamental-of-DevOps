@@ -18,3 +18,9 @@ devopstepologies.com
 -SAFe
 -ITIL
 
+# Culture
+-collaboration
+-communication
+-visibility
+- how data is shared
+
